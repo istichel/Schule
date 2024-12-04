@@ -1,2 +1,7 @@
+CENT OS
+su
+yum install nano
 yum install epel-release
 yum install nginx
+yum install certbot
+yum install python3-certbot-nginx
