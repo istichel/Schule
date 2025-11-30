@@ -1,7 +1,7 @@
 #!/bin/bash
 apt update;
-apt install -y git;
-apt -y upgrade;
+apt upgrade -y;
+apt install git -y;
 #locale-gen de_DE.UTF-8
 #locale-gen de_DE
 #update-locale LANG=de_DE.UTF-8
