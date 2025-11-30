@@ -1,4 +1,4 @@
 #!/bin/bash
 apt update;
-apt install git;
-apt upgrade;
+apt install -y git;
+apt -y upgrade;
